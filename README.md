@@ -9,7 +9,7 @@
 ## Задание
 
 Задание размещено в папке **task** в файле [README.md](task/README.md).
-Ссылка на сайт [тык](https://dashakineva.github.io/practice-2025-1/index.html).
+Ссылка на сайт [тык](https://Bloord/practice-2025-1/tree/master/site/practiceK).
 
 ## Ответственный по проектной (учебной) практике
 Худайбердиева Гулшат Информатика и информационные технологии
